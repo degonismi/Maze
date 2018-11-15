@@ -29,7 +29,7 @@ public class MazeMover : MonoBehaviour {
 
     void Update()
     {
-        //turn = Input.GetAxis("Horizontal");
+        turn = Input.GetAxis("Horizontal");
 
 
 
