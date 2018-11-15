@@ -1,0 +1,1181 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2018-11-15T23:38:27.101+03:00
+  initializedAtString: 2018-11-15T23:38:27.101+03:00
+  log:
+  - commitID: ed6879d712ec097ff7ee795edf8b914242712e7e
+    mergeA: 
+    mergeB: 
+    authorName: Degonis
+    authorEmail: degonismi@gmail.com
+    commitEmail: degonismi@gmail.com
+    commitName: Degonis
+    summary: 1
+    description: "1\r\n\r\nfirst commit"
+    timeString: 2018-11-15T22:44:59.000+03:00
+    commitTimeString: 2018-11-15T22:44:59.000+03:00
+    changes:
+    - path: .gitignore
+      fullPath: D:\Unity\Circle\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AdvancedPolygonCollider.meta
+      fullPath: D:\Unity\Circle\Assets\AdvancedPolygonCollider.meta
+      projectPath: Assets\AdvancedPolygonCollider.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AdvancedPolygonCollider\Demo.meta
+      fullPath: D:\Unity\Circle\Assets\AdvancedPolygonCollider\Demo.meta
+      projectPath: Assets\AdvancedPolygonCollider\Demo.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AdvancedPolygonCollider\Demo\Cougar.anim
+      fullPath: D:\Unity\Circle\Assets\AdvancedPolygonCollider\Demo\Cougar.anim
+      projectPath: Assets\AdvancedPolygonCollider\Demo\Cougar.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AdvancedPolygonCollider\Demo\Cougar.anim.meta
+      fullPath: D:\Unity\Circle\Assets\AdvancedPolygonCollider\Demo\Cougar.anim.meta
+      projectPath: Assets\AdvancedPolygonCollider\Demo\Cougar.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AdvancedPolygonCollider\Demo\CougarAnimator.controller
+      fullPath: D:\Unity\Circle\Assets\AdvancedPolygonCollider\Demo\CougarAnimator.controller
+      projectPath: Assets\AdvancedPolygonCollider\Demo\CougarAnimator.controller
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AdvancedPolygonCollider\Demo\CougarAnimator.controller.meta
+      fullPath: D:\Unity\Circle\Assets\AdvancedPolygonCollider\Demo\CougarAnimator.controller.meta
+      projectPath: Assets\AdvancedPolygonCollider\Demo\CougarAnimator.controller.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AdvancedPolygonCollider\Demo\DemoScene.unity
+      fullPath: D:\Unity\Circle\Assets\AdvancedPolygonCollider\Demo\DemoScene.unity
+      projectPath: Assets\AdvancedPolygonCollider\Demo\DemoScene.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AdvancedPolygonCollider\Demo\DemoScene.unity.meta
+      fullPath: D:\Unity\Circle\Assets\AdvancedPolygonCollider\Demo\DemoScene.unity.meta
+      projectPath: Assets\AdvancedPolygonCollider\Demo\DemoScene.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AdvancedPolygonCollider\Demo\FloorMaterial.physicsMaterial2D
+      fullPath: D:\Unity\Circle\Assets\AdvancedPolygonCollider\Demo\FloorMaterial.physicsMaterial2D
+      projectPath: Assets\AdvancedPolygonCollider\Demo\FloorMaterial.physicsMaterial2D
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AdvancedPolygonCollider\Demo\FloorMaterial.physicsMaterial2D.meta
+      fullPath: D:\Unity\Circle\Assets\AdvancedPolygonCollider\Demo\FloorMaterial.physicsMaterial2D.meta
+      projectPath: Assets\AdvancedPolygonCollider\Demo\FloorMaterial.physicsMaterial2D.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AdvancedPolygonCollider\Demo\Textures.meta
+      fullPath: D:\Unity\Circle\Assets\AdvancedPolygonCollider\Demo\Textures.meta
+      projectPath: Assets\AdvancedPolygonCollider\Demo\Textures.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AdvancedPolygonCollider\Demo\Textures\Asteroid.png
+      fullPath: D:\Unity\Circle\Assets\AdvancedPolygonCollider\Demo\Textures\Asteroid.png
+      projectPath: Assets\AdvancedPolygonCollider\Demo\Textures\Asteroid.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AdvancedPolygonCollider\Demo\Textures\Asteroid.png.meta
+      fullPath: D:\Unity\Circle\Assets\AdvancedPolygonCollider\Demo\Textures\Asteroid.png.meta
+      projectPath: Assets\AdvancedPolygonCollider\Demo\Textures\Asteroid.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AdvancedPolygonCollider\Demo\Textures\Asteroid2.png
+      fullPath: D:\Unity\Circle\Assets\AdvancedPolygonCollider\Demo\Textures\Asteroid2.png
+      projectPath: Assets\AdvancedPolygonCollider\Demo\Textures\Asteroid2.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AdvancedPolygonCollider\Demo\Textures\Asteroid2.png.meta
+      fullPath: D:\Unity\Circle\Assets\AdvancedPolygonCollider\Demo\Textures\Asteroid2.png.meta
+      projectPath: Assets\AdvancedPolygonCollider\Demo\Textures\Asteroid2.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AdvancedPolygonCollider\Demo\Textures\Box.png
+      fullPath: D:\Unity\Circle\Assets\AdvancedPolygonCollider\Demo\Textures\Box.png
+      projectPath: Assets\AdvancedPolygonCollider\Demo\Textures\Box.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AdvancedPolygonCollider\Demo\Textures\Box.png.meta
+      fullPath: D:\Unity\Circle\Assets\AdvancedPolygonCollider\Demo\Textures\Box.png.meta
+      projectPath: Assets\AdvancedPolygonCollider\Demo\Textures\Box.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AdvancedPolygonCollider\Demo\Textures\Cougar.png
+      fullPath: D:\Unity\Circle\Assets\AdvancedPolygonCollider\Demo\Textures\Cougar.png
+      projectPath: Assets\AdvancedPolygonCollider\Demo\Textures\Cougar.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AdvancedPolygonCollider\Demo\Textures\Cougar.png.meta
+      fullPath: D:\Unity\Circle\Assets\AdvancedPolygonCollider\Demo\Textures\Cougar.png.meta
+      projectPath: Assets\AdvancedPolygonCollider\Demo\Textures\Cougar.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AdvancedPolygonCollider\Demo\Textures\Holes.png
+      fullPath: D:\Unity\Circle\Assets\AdvancedPolygonCollider\Demo\Textures\Holes.png
+      projectPath: Assets\AdvancedPolygonCollider\Demo\Textures\Holes.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AdvancedPolygonCollider\Demo\Textures\Holes.png.meta
+      fullPath: D:\Unity\Circle\Assets\AdvancedPolygonCollider\Demo\Textures\Holes.png.meta
+      projectPath: Assets\AdvancedPolygonCollider\Demo\Textures\Holes.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AdvancedPolygonCollider\Demo\Textures\Islands.png
+      fullPath: D:\Unity\Circle\Assets\AdvancedPolygonCollider\Demo\Textures\Islands.png
+      projectPath: Assets\AdvancedPolygonCollider\Demo\Textures\Islands.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AdvancedPolygonCollider\Demo\Textures\Islands.png.meta
+      fullPath: D:\Unity\Circle\Assets\AdvancedPolygonCollider\Demo\Textures\Islands.png.meta
+      projectPath: Assets\AdvancedPolygonCollider\Demo\Textures\Islands.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AdvancedPolygonCollider\Demo\Textures\piece.png
+      fullPath: D:\Unity\Circle\Assets\AdvancedPolygonCollider\Demo\Textures\piece.png
+      projectPath: Assets\AdvancedPolygonCollider\Demo\Textures\piece.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AdvancedPolygonCollider\Demo\Textures\piece.png.meta
+      fullPath: D:\Unity\Circle\Assets\AdvancedPolygonCollider\Demo\Textures\piece.png.meta
+      projectPath: Assets\AdvancedPolygonCollider\Demo\Textures\piece.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AdvancedPolygonCollider\Readme.txt
+      fullPath: D:\Unity\Circle\Assets\AdvancedPolygonCollider\Readme.txt
+      projectPath: Assets\AdvancedPolygonCollider\Readme.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AdvancedPolygonCollider\Readme.txt.meta
+      fullPath: D:\Unity\Circle\Assets\AdvancedPolygonCollider\Readme.txt.meta
+      projectPath: Assets\AdvancedPolygonCollider\Readme.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AdvancedPolygonCollider\Script.meta
+      fullPath: D:\Unity\Circle\Assets\AdvancedPolygonCollider\Script.meta
+      projectPath: Assets\AdvancedPolygonCollider\Script.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AdvancedPolygonCollider\Script\AdvancedPolygonCollider.cs
+      fullPath: D:\Unity\Circle\Assets\AdvancedPolygonCollider\Script\AdvancedPolygonCollider.cs
+      projectPath: Assets\AdvancedPolygonCollider\Script\AdvancedPolygonCollider.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AdvancedPolygonCollider\Script\AdvancedPolygonCollider.cs.meta
+      fullPath: D:\Unity\Circle\Assets\AdvancedPolygonCollider\Script\AdvancedPolygonCollider.cs.meta
+      projectPath: Assets\AdvancedPolygonCollider\Script\AdvancedPolygonCollider.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AdvancedPolygonCollider\Script\AdvancedPolygonColliderUtilities.cs
+      fullPath: D:\Unity\Circle\Assets\AdvancedPolygonCollider\Script\AdvancedPolygonColliderUtilities.cs
+      projectPath: Assets\AdvancedPolygonCollider\Script\AdvancedPolygonColliderUtilities.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AdvancedPolygonCollider\Script\AdvancedPolygonColliderUtilities.cs.meta
+      fullPath: D:\Unity\Circle\Assets\AdvancedPolygonCollider\Script\AdvancedPolygonColliderUtilities.cs.meta
+      projectPath: Assets\AdvancedPolygonCollider\Script\AdvancedPolygonColliderUtilities.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AdvancedPolygonCollider\Script\Editor.meta
+      fullPath: D:\Unity\Circle\Assets\AdvancedPolygonCollider\Script\Editor.meta
+      projectPath: Assets\AdvancedPolygonCollider\Script\Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AdvancedPolygonCollider\Script\Editor\AdvancedPolygonColliderEditor.cs
+      fullPath: D:\Unity\Circle\Assets\AdvancedPolygonCollider\Script\Editor\AdvancedPolygonColliderEditor.cs
+      projectPath: Assets\AdvancedPolygonCollider\Script\Editor\AdvancedPolygonColliderEditor.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AdvancedPolygonCollider\Script\Editor\AdvancedPolygonColliderEditor.cs.meta
+      fullPath: D:\Unity\Circle\Assets\AdvancedPolygonCollider\Script\Editor\AdvancedPolygonColliderEditor.cs.meta
+      projectPath: Assets\AdvancedPolygonCollider\Script\Editor\AdvancedPolygonColliderEditor.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AdvancedPolygonCollider\Script\Ui.meta
+      fullPath: D:\Unity\Circle\Assets\AdvancedPolygonCollider\Script\Ui.meta
+      projectPath: Assets\AdvancedPolygonCollider\Script\Ui.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AdvancedPolygonCollider\Script\Ui\ButtonLeft.cs
+      fullPath: D:\Unity\Circle\Assets\AdvancedPolygonCollider\Script\Ui\ButtonLeft.cs
+      projectPath: Assets\AdvancedPolygonCollider\Script\Ui\ButtonLeft.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AdvancedPolygonCollider\Script\Ui\ButtonLeft.cs.meta
+      fullPath: D:\Unity\Circle\Assets\AdvancedPolygonCollider\Script\Ui\ButtonLeft.cs.meta
+      projectPath: Assets\AdvancedPolygonCollider\Script\Ui\ButtonLeft.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AdvancedPolygonCollider\Script\Ui\MoveMenuZaze.cs
+      fullPath: D:\Unity\Circle\Assets\AdvancedPolygonCollider\Script\Ui\MoveMenuZaze.cs
+      projectPath: Assets\AdvancedPolygonCollider\Script\Ui\MoveMenuZaze.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AdvancedPolygonCollider\Script\Ui\MoveMenuZaze.cs.meta
+      fullPath: D:\Unity\Circle\Assets\AdvancedPolygonCollider\Script\Ui\MoveMenuZaze.cs.meta
+      projectPath: Assets\AdvancedPolygonCollider\Script\Ui\MoveMenuZaze.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Gizmos.meta
+      fullPath: D:\Unity\Circle\Assets\Gizmos.meta
+      projectPath: Assets\Gizmos.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Images.meta
+      fullPath: D:\Unity\Circle\Assets\Images.meta
+      projectPath: Assets\Images.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins.meta
+      fullPath: D:\Unity\Circle\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: D:\Unity\Circle\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes.meta
+      fullPath: D:\Unity\Circle\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\MainScene.unity
+      fullPath: D:\Unity\Circle\Assets\Scenes\MainScene.unity
+      projectPath: Assets\Scenes\MainScene.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\MainScene.unity.meta
+      fullPath: D:\Unity\Circle\Assets\Scenes\MainScene.unity.meta
+      projectPath: Assets\Scenes\MainScene.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\maze1.unity
+      fullPath: D:\Unity\Circle\Assets\Scenes\maze1.unity
+      projectPath: Assets\Scenes\maze1.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\maze1.unity.meta
+      fullPath: D:\Unity\Circle\Assets\Scenes\maze1.unity.meta
+      projectPath: Assets\Scenes\maze1.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\maze2.unity
+      fullPath: D:\Unity\Circle\Assets\Scenes\maze2.unity
+      projectPath: Assets\Scenes\maze2.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\maze2.unity.meta
+      fullPath: D:\Unity\Circle\Assets\Scenes\maze2.unity.meta
+      projectPath: Assets\Scenes\maze2.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\maze3.unity
+      fullPath: D:\Unity\Circle\Assets\Scenes\maze3.unity
+      projectPath: Assets\Scenes\maze3.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\maze3.unity.meta
+      fullPath: D:\Unity\Circle\Assets\Scenes\maze3.unity.meta
+      projectPath: Assets\Scenes\maze3.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\maze4.unity
+      fullPath: D:\Unity\Circle\Assets\Scenes\maze4.unity
+      projectPath: Assets\Scenes\maze4.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\maze4.unity.meta
+      fullPath: D:\Unity\Circle\Assets\Scenes\maze4.unity.meta
+      projectPath: Assets\Scenes\maze4.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts.meta
+      fullPath: D:\Unity\Circle\Assets\Scripts.meta
+      projectPath: Assets\Scripts.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\MazeMover.cs
+      fullPath: D:\Unity\Circle\Assets\Scripts\MazeMover.cs
+      projectPath: Assets\Scripts\MazeMover.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\MazeMover.cs.meta
+      fullPath: D:\Unity\Circle\Assets\Scripts\MazeMover.cs.meta
+      projectPath: Assets\Scripts\MazeMover.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\TouchInputPanel.cs
+      fullPath: D:\Unity\Circle\Assets\Scripts\TouchInputPanel.cs
+      projectPath: Assets\Scripts\TouchInputPanel.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\TouchInputPanel.cs.meta
+      fullPath: D:\Unity\Circle\Assets\Scripts\TouchInputPanel.cs.meta
+      projectPath: Assets\Scripts\TouchInputPanel.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites.meta
+      fullPath: D:\Unity\Circle\Assets\Sprites.meta
+      projectPath: Assets\Sprites.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\4JBUT0DnaRY.jpg
+      fullPath: D:\Unity\Circle\Assets\Sprites\4JBUT0DnaRY.jpg
+      projectPath: Assets\Sprites\4JBUT0DnaRY.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\4JBUT0DnaRY.jpg.meta
+      fullPath: D:\Unity\Circle\Assets\Sprites\4JBUT0DnaRY.jpg.meta
+      projectPath: Assets\Sprites\4JBUT0DnaRY.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\BackGrounds.meta
+      fullPath: D:\Unity\Circle\Assets\Sprites\BackGrounds.meta
+      projectPath: Assets\Sprites\BackGrounds.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\BackGrounds\461223102.jpg
+      fullPath: D:\Unity\Circle\Assets\Sprites\BackGrounds\461223102.jpg
+      projectPath: Assets\Sprites\BackGrounds\461223102.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\BackGrounds\461223102.jpg.meta
+      fullPath: D:\Unity\Circle\Assets\Sprites\BackGrounds\461223102.jpg.meta
+      projectPath: Assets\Sprites\BackGrounds\461223102.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\BackGrounds\461223110.jpg
+      fullPath: D:\Unity\Circle\Assets\Sprites\BackGrounds\461223110.jpg
+      projectPath: Assets\Sprites\BackGrounds\461223110.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\BackGrounds\461223110.jpg.meta
+      fullPath: D:\Unity\Circle\Assets\Sprites\BackGrounds\461223110.jpg.meta
+      projectPath: Assets\Sprites\BackGrounds\461223110.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\BackGrounds\461223114.jpg
+      fullPath: D:\Unity\Circle\Assets\Sprites\BackGrounds\461223114.jpg
+      projectPath: Assets\Sprites\BackGrounds\461223114.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\BackGrounds\461223114.jpg.meta
+      fullPath: D:\Unity\Circle\Assets\Sprites\BackGrounds\461223114.jpg.meta
+      projectPath: Assets\Sprites\BackGrounds\461223114.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\BackGrounds\461223133.jpg
+      fullPath: D:\Unity\Circle\Assets\Sprites\BackGrounds\461223133.jpg
+      projectPath: Assets\Sprites\BackGrounds\461223133.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\BackGrounds\461223133.jpg.meta
+      fullPath: D:\Unity\Circle\Assets\Sprites\BackGrounds\461223133.jpg.meta
+      projectPath: Assets\Sprites\BackGrounds\461223133.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\BackGrounds\461223147.jpg
+      fullPath: D:\Unity\Circle\Assets\Sprites\BackGrounds\461223147.jpg
+      projectPath: Assets\Sprites\BackGrounds\461223147.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\BackGrounds\461223147.jpg.meta
+      fullPath: D:\Unity\Circle\Assets\Sprites\BackGrounds\461223147.jpg.meta
+      projectPath: Assets\Sprites\BackGrounds\461223147.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\BackGrounds\461223151.jpg
+      fullPath: D:\Unity\Circle\Assets\Sprites\BackGrounds\461223151.jpg
+      projectPath: Assets\Sprites\BackGrounds\461223151.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\BackGrounds\461223151.jpg.meta
+      fullPath: D:\Unity\Circle\Assets\Sprites\BackGrounds\461223151.jpg.meta
+      projectPath: Assets\Sprites\BackGrounds\461223151.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\BackGrounds\461223163.jpg
+      fullPath: D:\Unity\Circle\Assets\Sprites\BackGrounds\461223163.jpg
+      projectPath: Assets\Sprites\BackGrounds\461223163.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\BackGrounds\461223163.jpg.meta
+      fullPath: D:\Unity\Circle\Assets\Sprites\BackGrounds\461223163.jpg.meta
+      projectPath: Assets\Sprites\BackGrounds\461223163.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\BackGrounds\461223164.jpg
+      fullPath: D:\Unity\Circle\Assets\Sprites\BackGrounds\461223164.jpg
+      projectPath: Assets\Sprites\BackGrounds\461223164.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\BackGrounds\461223164.jpg.meta
+      fullPath: D:\Unity\Circle\Assets\Sprites\BackGrounds\461223164.jpg.meta
+      projectPath: Assets\Sprites\BackGrounds\461223164.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\BackGrounds\461223182.jpg
+      fullPath: D:\Unity\Circle\Assets\Sprites\BackGrounds\461223182.jpg
+      projectPath: Assets\Sprites\BackGrounds\461223182.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\BackGrounds\461223182.jpg.meta
+      fullPath: D:\Unity\Circle\Assets\Sprites\BackGrounds\461223182.jpg.meta
+      projectPath: Assets\Sprites\BackGrounds\461223182.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\BackGrounds\461223184.jpg
+      fullPath: D:\Unity\Circle\Assets\Sprites\BackGrounds\461223184.jpg
+      projectPath: Assets\Sprites\BackGrounds\461223184.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\BackGrounds\461223184.jpg.meta
+      fullPath: D:\Unity\Circle\Assets\Sprites\BackGrounds\461223184.jpg.meta
+      projectPath: Assets\Sprites\BackGrounds\461223184.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\BackGrounds\461223185.jpg
+      fullPath: D:\Unity\Circle\Assets\Sprites\BackGrounds\461223185.jpg
+      projectPath: Assets\Sprites\BackGrounds\461223185.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\BackGrounds\461223185.jpg.meta
+      fullPath: D:\Unity\Circle\Assets\Sprites\BackGrounds\461223185.jpg.meta
+      projectPath: Assets\Sprites\BackGrounds\461223185.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\BackGrounds\461223192.jpg
+      fullPath: D:\Unity\Circle\Assets\Sprites\BackGrounds\461223192.jpg
+      projectPath: Assets\Sprites\BackGrounds\461223192.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\BackGrounds\461223192.jpg.meta
+      fullPath: D:\Unity\Circle\Assets\Sprites\BackGrounds\461223192.jpg.meta
+      projectPath: Assets\Sprites\BackGrounds\461223192.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\BackGrounds\461223194.jpg
+      fullPath: D:\Unity\Circle\Assets\Sprites\BackGrounds\461223194.jpg
+      projectPath: Assets\Sprites\BackGrounds\461223194.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\BackGrounds\461223194.jpg.meta
+      fullPath: D:\Unity\Circle\Assets\Sprites\BackGrounds\461223194.jpg.meta
+      projectPath: Assets\Sprites\BackGrounds\461223194.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\BackGrounds\461223198.jpg
+      fullPath: D:\Unity\Circle\Assets\Sprites\BackGrounds\461223198.jpg
+      projectPath: Assets\Sprites\BackGrounds\461223198.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\BackGrounds\461223198.jpg.meta
+      fullPath: D:\Unity\Circle\Assets\Sprites\BackGrounds\461223198.jpg.meta
+      projectPath: Assets\Sprites\BackGrounds\461223198.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\Ui.meta
+      fullPath: D:\Unity\Circle\Assets\Sprites\Ui.meta
+      projectPath: Assets\Sprites\Ui.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\Ui\2013-04-13_142247_5258714.jpg
+      fullPath: D:\Unity\Circle\Assets\Sprites\Ui\2013-04-13_142247_5258714.jpg
+      projectPath: Assets\Sprites\Ui\2013-04-13_142247_5258714.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\Ui\2013-04-13_142247_5258714.jpg.meta
+      fullPath: D:\Unity\Circle\Assets\Sprites\Ui\2013-04-13_142247_5258714.jpg.meta
+      projectPath: Assets\Sprites\Ui\2013-04-13_142247_5258714.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\Ui\kisspng-circle-line-oval-maze-5acf057e69e526.0227425415235167984338.png
+      fullPath: D:\Unity\Circle\Assets\Sprites\Ui\kisspng-circle-line-oval-maze-5acf057e69e526.0227425415235167984338.png
+      projectPath: Assets\Sprites\Ui\kisspng-circle-line-oval-maze-5acf057e69e526.0227425415235167984338.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\Ui\kisspng-circle-line-oval-maze-5acf057e69e526.0227425415235167984338.png.meta
+      fullPath: D:\Unity\Circle\Assets\Sprites\Ui\kisspng-circle-line-oval-maze-5acf057e69e526.0227425415235167984338.png.meta
+      projectPath: Assets\Sprites\Ui\kisspng-circle-line-oval-maze-5acf057e69e526.0227425415235167984338.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\mazes.meta
+      fullPath: D:\Unity\Circle\Assets\Sprites\mazes.meta
+      projectPath: Assets\Sprites\mazes.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\mazes\2lm.png
+      fullPath: D:\Unity\Circle\Assets\Sprites\mazes\2lm.png
+      projectPath: Assets\Sprites\mazes\2lm.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\mazes\2lm.png.meta
+      fullPath: D:\Unity\Circle\Assets\Sprites\mazes\2lm.png.meta
+      projectPath: Assets\Sprites\mazes\2lm.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\mazes\3lm.png
+      fullPath: D:\Unity\Circle\Assets\Sprites\mazes\3lm.png
+      projectPath: Assets\Sprites\mazes\3lm.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\mazes\3lm.png.meta
+      fullPath: D:\Unity\Circle\Assets\Sprites\mazes\3lm.png.meta
+      projectPath: Assets\Sprites\mazes\3lm.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\mazes\4lm.png
+      fullPath: D:\Unity\Circle\Assets\Sprites\mazes\4lm.png
+      projectPath: Assets\Sprites\mazes\4lm.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\mazes\4lm.png.meta
+      fullPath: D:\Unity\Circle\Assets\Sprites\mazes\4lm.png.meta
+      projectPath: Assets\Sprites\mazes\4lm.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\mazes\maze.png
+      fullPath: D:\Unity\Circle\Assets\Sprites\mazes\maze.png
+      projectPath: Assets\Sprites\mazes\maze.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\mazes\maze.png.meta
+      fullPath: D:\Unity\Circle\Assets\Sprites\mazes\maze.png.meta
+      projectPath: Assets\Sprites\mazes\maze.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\mazes\maze_1.png
+      fullPath: D:\Unity\Circle\Assets\Sprites\mazes\maze_1.png
+      projectPath: Assets\Sprites\mazes\maze_1.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\mazes\maze_1.png.meta
+      fullPath: D:\Unity\Circle\Assets\Sprites\mazes\maze_1.png.meta
+      projectPath: Assets\Sprites\mazes\maze_1.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Packages\manifest.json
+      fullPath: D:\Unity\Circle\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: D:\Unity\Circle\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: D:\Unity\Circle\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: D:\Unity\Circle\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: D:\Unity\Circle\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: D:\Unity\Circle\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: D:\Unity\Circle\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: D:\Unity\Circle\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: D:\Unity\Circle\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\NetworkManager.asset
+      fullPath: D:\Unity\Circle\ProjectSettings\NetworkManager.asset
+      projectPath: ProjectSettings\NetworkManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: D:\Unity\Circle\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\PresetManager.asset
+      fullPath: D:\Unity\Circle\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: D:\Unity\Circle\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: D:\Unity\Circle\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: D:\Unity\Circle\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: D:\Unity\Circle\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: D:\Unity\Circle\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: D:\Unity\Circle\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
