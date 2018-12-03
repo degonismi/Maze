@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2018-11-15T23:38:26.979+03:00
-  initializedAtString: 2018-11-15T23:38:24.904+03:00
+  lastUpdatedAtString: 2018-12-03T19:01:52.874+03:00
+  initializedAtString: 2018-12-03T19:01:52.874+03:00
   currentGitRemote:
     name: origin
     url: https://degonismi@bitbucket.org/degonismi/circlemaze.git
@@ -23,10 +23,10 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: master
+    name: new1
     tracking: 
   currentConfigBranch:
-    name: master
+    name: new1
     remote:
       name: 
       url: 

@@ -12,18 +12,72 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-11-15T23:38:25.119+03:00
-  initializedAtString: 2018-11-15T23:38:25.119+03:00
+  lastUpdatedAtString: 2018-11-28T23:08:39.133+03:00
+  initializedAtString: 2018-11-28T23:02:37.882+03:00
   entries:
-  - path: Assets\Scripts\MazeMover.cs
-    fullPath: D:\Unity\Circle\Assets\Scripts\MazeMover.cs
-    projectPath: Assets\Scripts\MazeMover.cs
+  - path: .gitignore
+    fullPath: D:\Unity\Circle\.gitignore
+    projectPath: .gitignore
+    originalPath: 
+    status: 4
+    staged: 1
+  - path: Assets\Scenes\MainScene.unity
+    fullPath: D:\Unity\Circle\Assets\Scenes\MainScene.unity
+    projectPath: Assets\Scenes\MainScene.unity
     originalPath: 
     status: 3
     staged: 0
-  - path: ProjectSettings\QualitySettings.asset
-    fullPath: D:\Unity\Circle\ProjectSettings\QualitySettings.asset
-    projectPath: ProjectSettings\QualitySettings.asset
+  - path: Library\assetDatabase3
+    fullPath: D:\Unity\Circle\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\CrashedAssetImports.txt
+    fullPath: D:\Unity\Circle\Library\CrashedAssetImports.txt
+    projectPath: Library\CrashedAssetImports.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\EditorInstance.json
+    fullPath: D:\Unity\Circle\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: D:\Unity\Circle\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: D:\Unity\Circle\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gituser.yaml
+    fullPath: D:\Unity\Circle\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: D:\Unity\Circle\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\5e\5ec9ef34460a3144cb32e330f00a4257
+    fullPath: D:\Unity\Circle\Library\metadata\5e\5ec9ef34460a3144cb32e330f00a4257
+    projectPath: Library\metadata\5e\5ec9ef34460a3144cb32e330f00a4257
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Temp\UnityLockfile
+    fullPath: D:\Unity\Circle\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
     originalPath: 
     status: 3
     staged: 0

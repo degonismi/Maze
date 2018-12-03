@@ -12,10 +12,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2018-11-15T23:38:26.964+03:00
-  initializedAtString: 2018-11-15T23:38:24.882+03:00
+  lastUpdatedAtString: 2018-12-03T19:11:42.503+03:00
+  initializedAtString: 2018-12-03T19:08:00.846+03:00
   localBranches:
   - name: master
+    tracking: 
+  - name: new1
     tracking: 
   remoteBranches: []
   remotes:
@@ -26,11 +28,24 @@ MonoBehaviour:
     host: 
     function: 0
     token: 
+  - name: Circle
+    url: https://degonismi@bitbucket.org/degonismi/circlemaze.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
   localConfigBranches:
     keys:
     - master
+    - new1
     values:
     - name: master
+      remote:
+        name: 
+        url: 
+      trackingBranch: 
+    - name: new1
       remote:
         name: 
         url: 
@@ -42,6 +57,9 @@ MonoBehaviour:
   configRemotes:
     keys:
     - origin
+    - Circle
     values:
     - name: origin
+      url: https://degonismi@bitbucket.org/degonismi/circlemaze.git
+    - name: Circle
       url: https://degonismi@bitbucket.org/degonismi/circlemaze.git
