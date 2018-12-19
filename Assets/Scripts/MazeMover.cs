@@ -25,27 +25,26 @@ public class MazeMover : MonoBehaviour {
 
         touchHelper = touchpad.GetComponent<TouchInputPanel>();
 
+        lastDirection = Vector2.zero;
     }
 
     void Update()
     {
-        turn = Input.GetAxis("Horizontal");
+        //turn = Input.GetAxis("Horizontal");
+
 
 
 
         direction = touchHelper.GetDirectionFromTouch();
 
+       
 
-
-        if (direction != lastDirection)
-        turn = direction.x;
-        
-        
-        else
-        turn = 0.0f;
-
-
-        rb.angularVelocity = rb.angularVelocity + turn * 0.1f;
+            if (direction != lastDirection)
+                rb.AddTorque(direction.x * 15);
+            
+                //lastDirection = direction;
+                
+        //rb.angularVelocity = rb.angularVelocity + turn * 0.1f;
 
         lastDirection = direction;
 
@@ -53,7 +52,12 @@ public class MazeMover : MonoBehaviour {
         
     }
 
-    /* void FixedUpdate()
+    private void MoveTheMaze()
+    {
+
+    }
+
+    /*void FixedUpdate()
     //    {
 
             direction = touchPad.GetDirectionFromTouch();

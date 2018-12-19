@@ -6,7 +6,7 @@ using UnityEngine.EventSystems;
 
 
 
-public class TouchInputPanel : MonoBehaviour, IPointerDownHandler, IDragHandler, IEndDragHandler, IPointerUpHandler
+public class TouchInputPanel : MonoBehaviour, IPointerDownHandler, IDragHandler, IPointerUpHandler
 {
 
     private Vector2 startPos;
@@ -23,17 +23,14 @@ public class TouchInputPanel : MonoBehaviour, IPointerDownHandler, IDragHandler,
     {
         Vector2 currentPos = eventData.position;
         Vector2 directioPos = currentPos - startPos;
+
+        
+
         direction = directioPos;
     }
 
 
-    public void OnEndDrag(PointerEventData eventData)
-    {
-       startPos = eventData.position;
-        
-    }
-
-
+    
     public void OnPointerUp(PointerEventData eventData)
     {
         direction = Vector2.zero;
@@ -42,7 +39,7 @@ public class TouchInputPanel : MonoBehaviour, IPointerDownHandler, IDragHandler,
     public Vector2 GetDirectionFromTouch()
     {
 
-
+        
         return direction;
     }
 
@@ -62,7 +59,7 @@ public class TouchInputPanel : MonoBehaviour, IPointerDownHandler, IDragHandler,
     // Update is called once per frame
     void Update()
     {
-
+        
     }
 
 
