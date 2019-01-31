@@ -1,0 +1,671 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 5
+  lastUpdatedAtString: 2018-12-09T21:20:15.012+03:00
+  initializedAtString: 2018-12-09T21:20:14.107+03:00
+  entries:
+  - path: Library\assetDatabase3
+    fullPath: D:\Unity\Circle\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\EditorInstance.json
+    fullPath: D:\Unity\Circle\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: D:\Unity\Circle\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: D:\Unity\Circle\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: D:\Unity\Circle\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000002000000000000000
+    fullPath: D:\Unity\Circle\Library\metadata\00\00000000000000002000000000000000
+    projectPath: Library\metadata\00\00000000000000002000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000003000000000000000
+    fullPath: D:\Unity\Circle\Library\metadata\00\00000000000000003000000000000000
+    projectPath: Library\metadata\00\00000000000000003000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000004100000000000000
+    fullPath: D:\Unity\Circle\Library\metadata\00\00000000000000004100000000000000
+    projectPath: Library\metadata\00\00000000000000004100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000005000000000000000
+    fullPath: D:\Unity\Circle\Library\metadata\00\00000000000000005000000000000000
+    projectPath: Library\metadata\00\00000000000000005000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000005100000000000000
+    fullPath: D:\Unity\Circle\Library\metadata\00\00000000000000005100000000000000
+    projectPath: Library\metadata\00\00000000000000005100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000006000000000000000
+    fullPath: D:\Unity\Circle\Library\metadata\00\00000000000000006000000000000000
+    projectPath: Library\metadata\00\00000000000000006000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000006100000000000000
+    fullPath: D:\Unity\Circle\Library\metadata\00\00000000000000006100000000000000
+    projectPath: Library\metadata\00\00000000000000006100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000007000000000000000
+    fullPath: D:\Unity\Circle\Library\metadata\00\00000000000000007000000000000000
+    projectPath: Library\metadata\00\00000000000000007000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000007100000000000000
+    fullPath: D:\Unity\Circle\Library\metadata\00\00000000000000007100000000000000
+    projectPath: Library\metadata\00\00000000000000007100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000008000000000000000
+    fullPath: D:\Unity\Circle\Library\metadata\00\00000000000000008000000000000000
+    projectPath: Library\metadata\00\00000000000000008000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\0000000000000000b000000000000000
+    fullPath: D:\Unity\Circle\Library\metadata\00\0000000000000000b000000000000000
+    projectPath: Library\metadata\00\0000000000000000b000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\0000000000000000b100000000000000
+    fullPath: D:\Unity\Circle\Library\metadata\00\0000000000000000b100000000000000
+    projectPath: Library\metadata\00\0000000000000000b100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\0000000000000000c000000000000000
+    fullPath: D:\Unity\Circle\Library\metadata\00\0000000000000000c000000000000000
+    projectPath: Library\metadata\00\0000000000000000c000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    fullPath: D:\Unity\Circle\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\03\03cef973a70bf7f4f9b54c59b26a53ee
+    fullPath: D:\Unity\Circle\Library\metadata\03\03cef973a70bf7f4f9b54c59b26a53ee
+    projectPath: Library\metadata\03\03cef973a70bf7f4f9b54c59b26a53ee
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\04\0416cf3eac22a0344b9ddebe74e4729d
+    fullPath: D:\Unity\Circle\Library\metadata\04\0416cf3eac22a0344b9ddebe74e4729d
+    projectPath: Library\metadata\04\0416cf3eac22a0344b9ddebe74e4729d
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\08\08b096b84c0da4945b145bddb76c3761
+    fullPath: D:\Unity\Circle\Library\metadata\08\08b096b84c0da4945b145bddb76c3761
+    projectPath: Library\metadata\08\08b096b84c0da4945b145bddb76c3761
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\13\131a6b21c8605f84396be9f6751fb6e3
+    fullPath: D:\Unity\Circle\Library\metadata\13\131a6b21c8605f84396be9f6751fb6e3
+    projectPath: Library\metadata\13\131a6b21c8605f84396be9f6751fb6e3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\13\136dc24f151211d438acee17aff4e934
+    fullPath: D:\Unity\Circle\Library\metadata\13\136dc24f151211d438acee17aff4e934
+    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\13\13bdd255a028bcc459e23182edbeac4a
+    fullPath: D:\Unity\Circle\Library\metadata\13\13bdd255a028bcc459e23182edbeac4a
+    projectPath: Library\metadata\13\13bdd255a028bcc459e23182edbeac4a
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    fullPath: D:\Unity\Circle\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\1b\1bd46d7e43d6b0040a87c2bbd58ff0e1
+    fullPath: D:\Unity\Circle\Library\metadata\1b\1bd46d7e43d6b0040a87c2bbd58ff0e1
+    projectPath: Library\metadata\1b\1bd46d7e43d6b0040a87c2bbd58ff0e1
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\1f\1f93b3963cc667748b84b522bdaa33d3
+    fullPath: D:\Unity\Circle\Library\metadata\1f\1f93b3963cc667748b84b522bdaa33d3
+    projectPath: Library\metadata\1f\1f93b3963cc667748b84b522bdaa33d3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\21\219646ab8af949b47a1757fd7636de65.info
+    fullPath: D:\Unity\Circle\Library\metadata\21\219646ab8af949b47a1757fd7636de65.info
+    projectPath: Library\metadata\21\219646ab8af949b47a1757fd7636de65.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\22\2297824e3bc562a48b4296fb5303f4fa
+    fullPath: D:\Unity\Circle\Library\metadata\22\2297824e3bc562a48b4296fb5303f4fa
+    projectPath: Library\metadata\22\2297824e3bc562a48b4296fb5303f4fa
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    fullPath: D:\Unity\Circle\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\25\250a520e310c9e4409bd70a8e8a829c5
+    fullPath: D:\Unity\Circle\Library\metadata\25\250a520e310c9e4409bd70a8e8a829c5
+    projectPath: Library\metadata\25\250a520e310c9e4409bd70a8e8a829c5
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    fullPath: D:\Unity\Circle\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\2b\2beb5b9ec8283da4db4706465fedca7c
+    fullPath: D:\Unity\Circle\Library\metadata\2b\2beb5b9ec8283da4db4706465fedca7c
+    projectPath: Library\metadata\2b\2beb5b9ec8283da4db4706465fedca7c
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\2c\2cda990e2423bbf4892e6590ba056729
+    fullPath: D:\Unity\Circle\Library\metadata\2c\2cda990e2423bbf4892e6590ba056729
+    projectPath: Library\metadata\2c\2cda990e2423bbf4892e6590ba056729
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\2d\2d44a3587cd9f0f4ebdfbea6d8a9c789
+    fullPath: D:\Unity\Circle\Library\metadata\2d\2d44a3587cd9f0f4ebdfbea6d8a9c789
+    projectPath: Library\metadata\2d\2d44a3587cd9f0f4ebdfbea6d8a9c789
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\30\305b6e818055a104982596b94deddcef.info
+    fullPath: D:\Unity\Circle\Library\metadata\30\305b6e818055a104982596b94deddcef.info
+    projectPath: Library\metadata\30\305b6e818055a104982596b94deddcef.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\33\334653c90da783545bbe0593e563d68f
+    fullPath: D:\Unity\Circle\Library\metadata\33\334653c90da783545bbe0593e563d68f
+    projectPath: Library\metadata\33\334653c90da783545bbe0593e563d68f
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\35\35553b76b0605da4bba734c5db53edc5
+    fullPath: D:\Unity\Circle\Library\metadata\35\35553b76b0605da4bba734c5db53edc5
+    projectPath: Library\metadata\35\35553b76b0605da4bba734c5db53edc5
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\36\36f568b320ef9d9468aec3154a825558
+    fullPath: D:\Unity\Circle\Library\metadata\36\36f568b320ef9d9468aec3154a825558
+    projectPath: Library\metadata\36\36f568b320ef9d9468aec3154a825558
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\43\43c9c41d0d57c9d48bf548822332fe7d
+    fullPath: D:\Unity\Circle\Library\metadata\43\43c9c41d0d57c9d48bf548822332fe7d
+    projectPath: Library\metadata\43\43c9c41d0d57c9d48bf548822332fe7d
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\47\4786ad249aaad0141904ac188104540f
+    fullPath: D:\Unity\Circle\Library\metadata\47\4786ad249aaad0141904ac188104540f
+    projectPath: Library\metadata\47\4786ad249aaad0141904ac188104540f
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\4f\4f35d4b75939017458c04f0117a85f06
+    fullPath: D:\Unity\Circle\Library\metadata\4f\4f35d4b75939017458c04f0117a85f06
+    projectPath: Library\metadata\4f\4f35d4b75939017458c04f0117a85f06
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\54\54be40a8cea05254f9ecbb5f0b01cd2b
+    fullPath: D:\Unity\Circle\Library\metadata\54\54be40a8cea05254f9ecbb5f0b01cd2b
+    projectPath: Library\metadata\54\54be40a8cea05254f9ecbb5f0b01cd2b
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\55\550efe3eec2f5af4dbd95000b3e59ef5
+    fullPath: D:\Unity\Circle\Library\metadata\55\550efe3eec2f5af4dbd95000b3e59ef5
+    projectPath: Library\metadata\55\550efe3eec2f5af4dbd95000b3e59ef5
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\5c\5c4c4dba38bfac643b9e7ab237502a23
+    fullPath: D:\Unity\Circle\Library\metadata\5c\5c4c4dba38bfac643b9e7ab237502a23
+    projectPath: Library\metadata\5c\5c4c4dba38bfac643b9e7ab237502a23
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\5f\5f9fd8e06fd54dd45a2c6fd65657759c
+    fullPath: D:\Unity\Circle\Library\metadata\5f\5f9fd8e06fd54dd45a2c6fd65657759c
+    projectPath: Library\metadata\5f\5f9fd8e06fd54dd45a2c6fd65657759c
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\64\648ba90b4e48bf0469edde1408b54e80
+    fullPath: D:\Unity\Circle\Library\metadata\64\648ba90b4e48bf0469edde1408b54e80
+    projectPath: Library\metadata\64\648ba90b4e48bf0469edde1408b54e80
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\64\648ba90b4e48bf0469edde1408b54e80.info
+    fullPath: D:\Unity\Circle\Library\metadata\64\648ba90b4e48bf0469edde1408b54e80.info
+    projectPath: Library\metadata\64\648ba90b4e48bf0469edde1408b54e80.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\67\67b68d9255a1b844eb0197a3f23f132e
+    fullPath: D:\Unity\Circle\Library\metadata\67\67b68d9255a1b844eb0197a3f23f132e
+    projectPath: Library\metadata\67\67b68d9255a1b844eb0197a3f23f132e
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\69\699994c934f273c4eb36b5c3eb366b75
+    fullPath: D:\Unity\Circle\Library\metadata\69\699994c934f273c4eb36b5c3eb366b75
+    projectPath: Library\metadata\69\699994c934f273c4eb36b5c3eb366b75
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\6b\6bf435ff11638164ca9469e97f86feb6
+    fullPath: D:\Unity\Circle\Library\metadata\6b\6bf435ff11638164ca9469e97f86feb6
+    projectPath: Library\metadata\6b\6bf435ff11638164ca9469e97f86feb6
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\75\7519e9dd98135ae42b61c25173da50a9
+    fullPath: D:\Unity\Circle\Library\metadata\75\7519e9dd98135ae42b61c25173da50a9
+    projectPath: Library\metadata\75\7519e9dd98135ae42b61c25173da50a9
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\75\75e6110903cc0b142b09d924391bb90f
+    fullPath: D:\Unity\Circle\Library\metadata\75\75e6110903cc0b142b09d924391bb90f
+    projectPath: Library\metadata\75\75e6110903cc0b142b09d924391bb90f
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\7e\7e9edc5c0a650b94399165badb935cf6.info
+    fullPath: D:\Unity\Circle\Library\metadata\7e\7e9edc5c0a650b94399165badb935cf6.info
+    projectPath: Library\metadata\7e\7e9edc5c0a650b94399165badb935cf6.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\82\82832bd78c3b8694dadac3ae082828bc
+    fullPath: D:\Unity\Circle\Library\metadata\82\82832bd78c3b8694dadac3ae082828bc
+    projectPath: Library\metadata\82\82832bd78c3b8694dadac3ae082828bc
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    fullPath: D:\Unity\Circle\Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\8c\8c55c83d4c4dd1145ad5fbbab3c3df36
+    fullPath: D:\Unity\Circle\Library\metadata\8c\8c55c83d4c4dd1145ad5fbbab3c3df36
+    projectPath: Library\metadata\8c\8c55c83d4c4dd1145ad5fbbab3c3df36
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\91\91a17ba2a3fb38145a829a3f942d39b6
+    fullPath: D:\Unity\Circle\Library\metadata\91\91a17ba2a3fb38145a829a3f942d39b6
+    projectPath: Library\metadata\91\91a17ba2a3fb38145a829a3f942d39b6
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\95\955ea7239a2190c4189b98dc03064c59
+    fullPath: D:\Unity\Circle\Library\metadata\95\955ea7239a2190c4189b98dc03064c59
+    projectPath: Library\metadata\95\955ea7239a2190c4189b98dc03064c59
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\95\95bec1c33ae4ac6468e499e3fce7f8a9
+    fullPath: D:\Unity\Circle\Library\metadata\95\95bec1c33ae4ac6468e499e3fce7f8a9
+    projectPath: Library\metadata\95\95bec1c33ae4ac6468e499e3fce7f8a9
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\95\95f2489a291de214e9f52c1e4e1f4505
+    fullPath: D:\Unity\Circle\Library\metadata\95\95f2489a291de214e9f52c1e4e1f4505
+    projectPath: Library\metadata\95\95f2489a291de214e9f52c1e4e1f4505
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\9a\9a4ec04ea8f067d40af407f79aeebb09
+    fullPath: D:\Unity\Circle\Library\metadata\9a\9a4ec04ea8f067d40af407f79aeebb09
+    projectPath: Library\metadata\9a\9a4ec04ea8f067d40af407f79aeebb09
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\9f\9f463555cefbe5b41a6b4c2e5ef8f8b1
+    fullPath: D:\Unity\Circle\Library\metadata\9f\9f463555cefbe5b41a6b4c2e5ef8f8b1
+    projectPath: Library\metadata\9f\9f463555cefbe5b41a6b4c2e5ef8f8b1
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\a5\a5c41b4182b7b01439c9dea3a6437839
+    fullPath: D:\Unity\Circle\Library\metadata\a5\a5c41b4182b7b01439c9dea3a6437839
+    projectPath: Library\metadata\a5\a5c41b4182b7b01439c9dea3a6437839
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\a9\a9462ea73d0b7fa41a4a23697b20eb77
+    fullPath: D:\Unity\Circle\Library\metadata\a9\a9462ea73d0b7fa41a4a23697b20eb77
+    projectPath: Library\metadata\a9\a9462ea73d0b7fa41a4a23697b20eb77
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\aa\aa6a0d27681c01f4287947a783958928
+    fullPath: D:\Unity\Circle\Library\metadata\aa\aa6a0d27681c01f4287947a783958928
+    projectPath: Library\metadata\aa\aa6a0d27681c01f4287947a783958928
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\ab\abb3ab3c2baf3274790598d290ab8e8b
+    fullPath: D:\Unity\Circle\Library\metadata\ab\abb3ab3c2baf3274790598d290ab8e8b
+    projectPath: Library\metadata\ab\abb3ab3c2baf3274790598d290ab8e8b
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\ac\acb8a569beae3394bb37bbaa8819592d
+    fullPath: D:\Unity\Circle\Library\metadata\ac\acb8a569beae3394bb37bbaa8819592d
+    projectPath: Library\metadata\ac\acb8a569beae3394bb37bbaa8819592d
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\b0\b0520b7058195a84cac01bc3f268e386
+    fullPath: D:\Unity\Circle\Library\metadata\b0\b0520b7058195a84cac01bc3f268e386
+    projectPath: Library\metadata\b0\b0520b7058195a84cac01bc3f268e386
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\b1\b11ad770a8845ea40b69921541335c91
+    fullPath: D:\Unity\Circle\Library\metadata\b1\b11ad770a8845ea40b69921541335c91
+    projectPath: Library\metadata\b1\b11ad770a8845ea40b69921541335c91
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\bc\bc519ebc21f8f30408a701cfc5ee9cb9
+    fullPath: D:\Unity\Circle\Library\metadata\bc\bc519ebc21f8f30408a701cfc5ee9cb9
+    projectPath: Library\metadata\bc\bc519ebc21f8f30408a701cfc5ee9cb9
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\bd\bd7719705451faf4c9491b01322f2400
+    fullPath: D:\Unity\Circle\Library\metadata\bd\bd7719705451faf4c9491b01322f2400
+    projectPath: Library\metadata\bd\bd7719705451faf4c9491b01322f2400
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\bd\bd7719705451faf4c9491b01322f2400.info
+    fullPath: D:\Unity\Circle\Library\metadata\bd\bd7719705451faf4c9491b01322f2400.info
+    projectPath: Library\metadata\bd\bd7719705451faf4c9491b01322f2400.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\bf\bf6307933617bbc4f9db1223166cc8cb.info
+    fullPath: D:\Unity\Circle\Library\metadata\bf\bf6307933617bbc4f9db1223166cc8cb.info
+    projectPath: Library\metadata\bf\bf6307933617bbc4f9db1223166cc8cb.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    fullPath: D:\Unity\Circle\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\ca\ca6842412a08b704497c6f6297704837
+    fullPath: D:\Unity\Circle\Library\metadata\ca\ca6842412a08b704497c6f6297704837
+    projectPath: Library\metadata\ca\ca6842412a08b704497c6f6297704837
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\cd\cde09529f07c3184ebb6a1884589eb26
+    fullPath: D:\Unity\Circle\Library\metadata\cd\cde09529f07c3184ebb6a1884589eb26
+    projectPath: Library\metadata\cd\cde09529f07c3184ebb6a1884589eb26
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\ce\ce43aaa825ded8d4fa83e33479bb475e
+    fullPath: D:\Unity\Circle\Library\metadata\ce\ce43aaa825ded8d4fa83e33479bb475e
+    projectPath: Library\metadata\ce\ce43aaa825ded8d4fa83e33479bb475e
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\d4\d411c6995785a5249b143518e7feaf56
+    fullPath: D:\Unity\Circle\Library\metadata\d4\d411c6995785a5249b143518e7feaf56
+    projectPath: Library\metadata\d4\d411c6995785a5249b143518e7feaf56
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    fullPath: D:\Unity\Circle\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\d6\d65c3cdb4acad844c90e1e055ecb8821
+    fullPath: D:\Unity\Circle\Library\metadata\d6\d65c3cdb4acad844c90e1e055ecb8821
+    projectPath: Library\metadata\d6\d65c3cdb4acad844c90e1e055ecb8821
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    fullPath: D:\Unity\Circle\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\dd\ddad4edf22747d44e88e1d0e804422a3
+    fullPath: D:\Unity\Circle\Library\metadata\dd\ddad4edf22747d44e88e1d0e804422a3
+    projectPath: Library\metadata\dd\ddad4edf22747d44e88e1d0e804422a3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\e0\e074df7ed56299c4b8fce413a75bae1e
+    fullPath: D:\Unity\Circle\Library\metadata\e0\e074df7ed56299c4b8fce413a75bae1e
+    projectPath: Library\metadata\e0\e074df7ed56299c4b8fce413a75bae1e
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\e3\e3de62aa69c211e4b8c90fc16f6d350e.info
+    fullPath: D:\Unity\Circle\Library\metadata\e3\e3de62aa69c211e4b8c90fc16f6d350e.info
+    projectPath: Library\metadata\e3\e3de62aa69c211e4b8c90fc16f6d350e.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\e5\e5eb6cf5638777e499b0dee4267b8bff
+    fullPath: D:\Unity\Circle\Library\metadata\e5\e5eb6cf5638777e499b0dee4267b8bff
+    projectPath: Library\metadata\e5\e5eb6cf5638777e499b0dee4267b8bff
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\eb\eb36f418262bb274799dfd520e8d9098
+    fullPath: D:\Unity\Circle\Library\metadata\eb\eb36f418262bb274799dfd520e8d9098
+    projectPath: Library\metadata\eb\eb36f418262bb274799dfd520e8d9098
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\eb\eb722682dda84a6469ec59f3b36bbd14
+    fullPath: D:\Unity\Circle\Library\metadata\eb\eb722682dda84a6469ec59f3b36bbd14
+    projectPath: Library\metadata\eb\eb722682dda84a6469ec59f3b36bbd14
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\fb\fbfa0f1858779354ca3a253e8d72b725
+    fullPath: D:\Unity\Circle\Library\metadata\fb\fbfa0f1858779354ca3a253e8d72b725
+    projectPath: Library\metadata\fb\fbfa0f1858779354ca3a253e8d72b725
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\fc\fc318c8362fc81f43a2807261d877c3f
+    fullPath: D:\Unity\Circle\Library\metadata\fc\fc318c8362fc81f43a2807261d877c3f
+    projectPath: Library\metadata\fc\fc318c8362fc81f43a2807261d877c3f
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\ff\ff957ee753a9f34428fbfa2d832190ee
+    fullPath: D:\Unity\Circle\Library\metadata\ff\ff957ee753a9f34428fbfa2d832190ee
+    projectPath: Library\metadata\ff\ff957ee753a9f34428fbfa2d832190ee
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    fullPath: D:\Unity\Circle\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll.mdb
+    fullPath: D:\Unity\Circle\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: D:\Unity\Circle\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Temp\UnityLockfile
+    fullPath: D:\Unity\Circle\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Temp\UnityTempFile-2f629032caf4c064197cd8b42b7d9505
+    fullPath: D:\Unity\Circle\Temp\UnityTempFile-2f629032caf4c064197cd8b42b7d9505
+    projectPath: Temp\UnityTempFile-2f629032caf4c064197cd8b42b7d9505
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-4edee36ff3a034f4ab9a4b2c64bd5c0e
+    fullPath: D:\Unity\Circle\Temp\UnityTempFile-4edee36ff3a034f4ab9a4b2c64bd5c0e
+    projectPath: Temp\UnityTempFile-4edee36ff3a034f4ab9a4b2c64bd5c0e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-7e2a009601c5423429a8695622b4a7af
+    fullPath: D:\Unity\Circle\Temp\UnityTempFile-7e2a009601c5423429a8695622b4a7af
+    projectPath: Temp\UnityTempFile-7e2a009601c5423429a8695622b4a7af
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-80d92a91555c89742896c3692338640b
+    fullPath: D:\Unity\Circle\Temp\UnityTempFile-80d92a91555c89742896c3692338640b
+    projectPath: Temp\UnityTempFile-80d92a91555c89742896c3692338640b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-847200b3f3109754d9cdf5903a3a734c
+    fullPath: D:\Unity\Circle\Temp\UnityTempFile-847200b3f3109754d9cdf5903a3a734c
+    projectPath: Temp\UnityTempFile-847200b3f3109754d9cdf5903a3a734c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-84e5240c52169d546a51870bfeb928c5
+    fullPath: D:\Unity\Circle\Temp\UnityTempFile-84e5240c52169d546a51870bfeb928c5
+    projectPath: Temp\UnityTempFile-84e5240c52169d546a51870bfeb928c5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-85018166c41b7ca4ca84c4262479c2cf
+    fullPath: D:\Unity\Circle\Temp\UnityTempFile-85018166c41b7ca4ca84c4262479c2cf
+    projectPath: Temp\UnityTempFile-85018166c41b7ca4ca84c4262479c2cf
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-86c39120f4bd5f84293067d005dd6535
+    fullPath: D:\Unity\Circle\Temp\UnityTempFile-86c39120f4bd5f84293067d005dd6535
+    projectPath: Temp\UnityTempFile-86c39120f4bd5f84293067d005dd6535
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-99b481e7c72870b42827eaa6b98e5f83
+    fullPath: D:\Unity\Circle\Temp\UnityTempFile-99b481e7c72870b42827eaa6b98e5f83
+    projectPath: Temp\UnityTempFile-99b481e7c72870b42827eaa6b98e5f83
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-b19038fecf9a6d14a8f5f25c6c3055ee
+    fullPath: D:\Unity\Circle\Temp\UnityTempFile-b19038fecf9a6d14a8f5f25c6c3055ee
+    projectPath: Temp\UnityTempFile-b19038fecf9a6d14a8f5f25c6c3055ee
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-ceef7e4f821d0a84095f50b487a7027b
+    fullPath: D:\Unity\Circle\Temp\UnityTempFile-ceef7e4f821d0a84095f50b487a7027b
+    projectPath: Temp\UnityTempFile-ceef7e4f821d0a84095f50b487a7027b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-dda7f4ddec457a045b9521e01b53cb95
+    fullPath: D:\Unity\Circle\Temp\UnityTempFile-dda7f4ddec457a045b9521e01b53cb95
+    projectPath: Temp\UnityTempFile-dda7f4ddec457a045b9521e01b53cb95
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-fb8875af528b5e0439c1e28c4cbf4f1f
+    fullPath: D:\Unity\Circle\Temp\UnityTempFile-fb8875af528b5e0439c1e28c4cbf4f1f
+    projectPath: Temp\UnityTempFile-fb8875af528b5e0439c1e28c4cbf4f1f
+    originalPath: 
+    status: 1
+    staged: 0

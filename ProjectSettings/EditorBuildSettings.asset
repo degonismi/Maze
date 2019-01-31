@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main/MainScene.unity
+    guid: 5ec9ef34460a3144cb32e330f00a4257
+  - enabled: 1
+    path: Assets/Scenes/Pack1/MazeL1.unity
+    guid: 4ba457d1dfc8c934d89688adedd3d193
+  - enabled: 1
+    path: Assets/Scenes/Pack1/MazeL2.unity
+    guid: c15d92454ec623d429eecd821547dae3
+  - enabled: 1
+    path: Assets/Scenes/Pack1/MazeL3.unity
+    guid: 7065312fa6495c64082127940ad9e204
+  - enabled: 1
+    path: Assets/Scenes/Pack1/MazeL4.unity
+    guid: a8c6b79ccf800074ebf1f9f8fb9970cc
+  - enabled: 1
+    path: Assets/Scenes/Pack1/MazeL5.unity
+    guid: 5a6356cc7ece7314db25c39c2fcc6f95
+  - enabled: 1
+    path: Assets/Scenes/Pack1/MazeL6.unity
+    guid: 58fdc0c49e1da2e4783c1f26cdacefd2
+  - enabled: 1
+    path: Assets/Scenes/Pack1/MazeL7.unity
+    guid: 6a8d0d543925e2741abcdfdb36719af9
+  - enabled: 1
+    path: Assets/Scenes/Pack1/MazeL8.unity
+    guid: a85d954116a75b64a8ba7c59061f4117
+  m_configObjects: {}
