@@ -6,21 +6,15 @@ using UnityEngine.UI;
 
 public class GameHelper : MonoBehaviour {
 
+    //управление игровым процессом
+
     public GameObject gamePanel;
     public GameObject pausePanel;
     public GameObject diePanel;
+    public GameObject winPanel;
 
+    public int Stars;
 
-
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
 
     public void PauseButton()
     {
@@ -40,24 +34,44 @@ public class GameHelper : MonoBehaviour {
     public void RestartButton()
     {
         TimerScr.timer = 0.0f;
-        TimerScr.timerUi = 0.0f;
         Time.timeScale = 1.0f;
         GameManager.ChangeSceneToGame(GameManager.currentScene);
     }
 
-    public void DieButton()
+    public void NextLevel()
     {
-        
+        Time.timeScale = 1.0f;
+        GameManager.ChangeSceneToNext();
+
+    }
+
+    public void WinLevel()
+    {
+        gamePanel.SetActive(false);
+        winPanel.SetActive(true);
+        GameManager.LevelComplited(Stars);
+        GameManager.AdsCheck();
+
+
+    }
+
+    public void LoseLevel()
+    {
         gamePanel.SetActive(false);
         diePanel.SetActive(true);
+        GameManager.AdsCheck();
     }
+    
+    
 
     public void MenuButton()
     {
         TimerScr.timer = 0.0f;
-        TimerScr.timerUi = 0.0f;
         Time.timeScale = 1.0f;
         GameManager.ExitToMenu();
-
+        GameManager.AdsCheck();
     }
+
+
+
 }

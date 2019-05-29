@@ -12,9 +12,87 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2018-12-03T19:11:43.082+03:00
-  initializedAtString: 2018-12-03T19:06:36.083+03:00
+  lastUpdatedAtString: 2018-12-09T21:23:40.998+03:00
+  initializedAtString: 2018-12-09T21:23:40.998+03:00
   log:
+  - commitID: fe29a987ef924e9c5d040d64b67ce18fe9094a6e
+    mergeA: 
+    mergeB: 
+    authorName: Degonis
+    authorEmail: degonismi@gmail.com
+    commitEmail: degonismi@gmail.com
+    commitName: Degonis
+    summary: LocalC
+    description: LocalC
+    timeString: 2018-12-03T19:27:38.000+03:00
+    commitTimeString: 2018-12-03T19:27:38.000+03:00
+    changes:
+    - path: Assets\Scenes\MainScene.unity
+      fullPath: D:\Unity\Circle\Assets\Scenes\MainScene.unity
+      projectPath: Assets\Scenes\MainScene.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\CurrentLayout.dwlt
+      fullPath: D:\Unity\Circle\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\EditorInstance.json
+      fullPath: D:\Unity\Circle\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\assetDatabase3
+      fullPath: D:\Unity\Circle\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: D:\Unity\Circle\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: D:\Unity\Circle\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: D:\Unity\Circle\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\Unity\Circle\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gituser.yaml
+      fullPath: D:\Unity\Circle\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: D:\Unity\Circle\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\5e\5ec9ef34460a3144cb32e330f00a4257
+      fullPath: D:\Unity\Circle\Library\metadata\5e\5ec9ef34460a3144cb32e330f00a4257
+      projectPath: Library\metadata\5e\5ec9ef34460a3144cb32e330f00a4257
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: af0a0ab65774c22e7788f02fea07e9566663c3d4
     mergeA: 
     mergeB: 
